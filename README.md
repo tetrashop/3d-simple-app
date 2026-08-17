@@ -88,3 +88,8 @@ MIT License
   <sub>ساخته شده با ❤️ توسط تیم TetraShop</sub>
 </div>
 <!-- Trigger deploy: Mon Aug 17 01:47:18 +0330 2026 -->
+
+## 🌐 دیپلوی
+
+- **URL:** [https://3d-simple-app.vercel.app](https://3d-simple-app.vercel.app)
+- **وضعیت:** ✅ فعال
